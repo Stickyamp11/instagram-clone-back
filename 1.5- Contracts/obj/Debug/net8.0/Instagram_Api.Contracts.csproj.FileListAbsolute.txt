@@ -1,0 +1,29 @@
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\bin\Debug\net8.0\Instagram_Api.Contracts.deps.json
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\bin\Debug\net8.0\Instagram_Api.Contracts.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\bin\Debug\net8.0\Instagram_Api.Contracts.pdb
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.AssemblyInfoInputs.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.AssemblyInfo.cs
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\obj\Debug\net8.0\refint\Instagram_Api.Contracts.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.pdb
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\obj\Debug\net8.0\ref\Instagram_Api.Contracts.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.csproj.AssemblyReference.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\bin\Debug\net8.0\Instagram_Api.Contracts.runtimeconfig.json
+C:\Users\elcap\Documents\Repos\instagram-clone\Instagram_Api.Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.genruntimeconfig.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\bin\Debug\net8.0\Instagram_Api.Contracts.deps.json
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\bin\Debug\net8.0\Instagram_Api.Contracts.runtimeconfig.json
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\bin\Debug\net8.0\Instagram_Api.Contracts.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\bin\Debug\net8.0\Instagram_Api.Contracts.pdb
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.csproj.AssemblyReference.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.AssemblyInfoInputs.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.AssemblyInfo.cs
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\obj\Debug\net8.0\refint\Instagram_Api.Contracts.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.pdb
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.genruntimeconfig.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\obj\Debug\net8.0\ref\Instagram_Api.Contracts.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\1.5- Contracts\obj\Debug\net8.0\Instagram_Api.Contracts.sourcelink.json

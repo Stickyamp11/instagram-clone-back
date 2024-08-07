@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Instagram_Api.Presentation.props" />
+</Project>

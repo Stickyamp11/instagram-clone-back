@@ -1,0 +1,63 @@
+name: dockercompose11328095477085571364
+services:
+  api.database:
+    container_name: api.database
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "12345"
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\elcap\Documents\Repos\instagram-clone\.containers\api-db
+        target: /var/lib/sqlserver/data
+        bind:
+          create_host_path: true
+  instagram_api.presentation:
+    build:
+      context: C:\Users\elcap\Documents\Repos\instagram-clone
+      dockerfile: 1-Presentation/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: instagramapipresentation
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8000
+        published: "8000"
+        protocol: tcp
+      - mode: ingress
+        target: 8001
+        published: "8001"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\elcap\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\elcap\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose11328095477085571364_default

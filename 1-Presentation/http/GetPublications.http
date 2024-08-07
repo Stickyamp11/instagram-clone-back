@@ -1,0 +1,7 @@
+@Instagram_Api_HostAddress = https://localhost:44376
+@userGuid = 27d4bae8-be72-4562-9eaf-e0fef12fd617
+@bearer = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjAzNTIwMTgsImlzcyI6IkZha2VJbnN0YWdyYW0iLCJhdWQiOiJGYWtlSW5zdGFncmFtIn0.Fy5sRqSwZ3XUy0vdyXhpQOAuzt63mktmspTFEHg-OrA
+
+
+GET {{Instagram_Api_HostAddress}}/publication/{{userGuid}}
+Authorization: Bearer {{bearer}}

@@ -1,0 +1,10 @@
+@Instagram_Api_HostAddress = https://localhost:44376
+
+POST {{Instagram_Api_HostAddress}}/auth/register
+Content-Type: application/json
+
+{
+    "fullName": "Manu",
+    "email": "manus10@test.es",
+    "password": "1234"
+}

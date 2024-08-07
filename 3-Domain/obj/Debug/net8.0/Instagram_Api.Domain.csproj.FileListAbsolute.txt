@@ -1,0 +1,15 @@
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\bin\Debug\net8.0\Instagram_Api.Domain.deps.json
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\bin\Debug\net8.0\Instagram_Api.Domain.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\bin\Debug\net8.0\Instagram_Api.Domain.pdb
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\obj\Debug\net8.0\Instagram_Api.Domain.csproj.AssemblyReference.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\obj\Debug\net8.0\Instagram_Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\obj\Debug\net8.0\Instagram_Api.Domain.AssemblyInfoInputs.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\obj\Debug\net8.0\Instagram_Api.Domain.AssemblyInfo.cs
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\obj\Debug\net8.0\Instagram_Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\obj\Debug\net8.0\Instagram_Api.Domain.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\obj\Debug\net8.0\refint\Instagram_Api.Domain.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\obj\Debug\net8.0\Instagram_Api.Domain.pdb
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\obj\Debug\net8.0\ref\Instagram_Api.Domain.dll
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\bin\Debug\net8.0\Instagram_Api.Domain.runtimeconfig.json
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\obj\Debug\net8.0\Instagram_Api.Domain.genruntimeconfig.cache
+C:\Users\elcap\Documents\Repos\instagram-clone\3-Domain\obj\Debug\net8.0\Instagram_Api.Domain.sourcelink.json
